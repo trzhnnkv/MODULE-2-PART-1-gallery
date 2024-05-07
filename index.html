@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gallery</title>
+  </head>
+  <body>
+    <section class="registration">
+      <h3>Authorization</h3>
+      <form action="https://hjdjs55gol.execute-api.us-east-1.amazonaws.com/api/login" method="post" name="login">
+        <div>
+          <label for="email">E-mail</label>
+          <input type="email" placeholder="email" id="email" required>
+        </div>
+        <div>
+          <label for="password">Password</label>
+          <input type="password" placeholder="password" id="password" required>
+        </div>
+        <div>
+          <input type="button" class="btnLogin" value="Log in">
+        </div>
+      </form>
+    </section>
+    <section class="gallery">
+      <h3>Gallery</h3>
+      <div>
+        <input type="button" class="previos" value="<">
+        <input type="button" class="btnShowGallery" value="Show gallery">
+        <input type="button" class="next" value=">">
+        <div>Pages</div>
+        <button id="pages">1</button>
+        <button id="pages">2</button>
+        <button id="pages">3</button>
+        <button id="pages">4</button>
+        <button id="pages">5</button>
+      </div>
+      <div id='imgs'></div>
+    <script type="module" src="./script.js"></script>
+  </body>
+</html>
