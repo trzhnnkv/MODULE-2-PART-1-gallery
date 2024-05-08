@@ -9,6 +9,6 @@ The project implements authorization functionality using a post request to recei
 ***Project structure:***
 - [README.md](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/README.md)
 - [index.html](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/index.html)
-- [script.js](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/script.js)
-- [login.js](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/login.js)
-- [gallery.js](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/gallery.js)
+- [script.ts](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/script.js)
+- [login.ts](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/login.js)
+- [gallery.ts](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/gallery.js)

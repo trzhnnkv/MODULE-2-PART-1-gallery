@@ -1,9 +1,9 @@
 ///////////////////////////////////////
 // Gallery
 const btnShowGallery = document.querySelector('.btnShowGallery');
-const btnPrev = document.querySelector('.previos');
+const btnPrev = document.querySelector('.previous');
 const btnNext = document.querySelector('.next');
-const btnPages = document.querySelectorAll('#pages');
+const btnPages = document.querySelectorAll('.pages');
 
 // Will be recorded in the getGallery
 let currentPage = 1;
