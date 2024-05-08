@@ -1,14 +1,26 @@
-## Module 1 \ Part 3  
-### JS, Web basics
-[Issues](https://github.com/Coo1PeR/module1_part3_gallery/issues)
-___
-Author [Artem Kravchenko](https://github.com/Coo1PeR)
-___
-The project implements authorization functionality using a post request to receive a token and save it in localStorage. Using the token we get a gallery of pictures with the ability to switch between gallery pages. The token is stored for 10 minutes
+# Project name
+Module2 Part1 TS exercises
 
-***Project structure:***
-- [README.md](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/README.md)
-- [index.html](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/index.html)
-- [script.js](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/script.js)
-- [login.js](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/login.js)
-- [gallery.js](https://github.com/Coo1PeR/module1_part3_gallery/blob/main/gallery.js)
+## Author
+trzhnnkv@gmail.com
+
+## Link to issues page
+[issues](https://github.com/trzhnnkv/MODULE-2-PART-1-gallery/issues "Ussues page")
+
+## Project description
+Rewrite the code from module 1 part 3 from JavaScript to Typecsript
+
+## Description of the project structure
+The project consists of the following files:
+* js (JS code from 1 module is stored here)
+	* gallery.js
+	* index.html
+	* login.js
+	* script.js
+* ts 
+	* gallery.ts
+	* login.ts
+	* script.ts
+	* tsconfig.json
+* .gitignore
+* README.md
